@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "finishing writing hooks chapter"
+    },
+    {
+      "id": 2,
+      "text": "play with kids"
+    },
+    {
+      "id": 3,
+      "text": "read books"
+    },
+    {
+      "id": "16fcb955-b240-4a4a-9f4b-36e4ea815971",
+      "text": "go to gym"
+    }
+  ]
+}
